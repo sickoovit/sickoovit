@@ -33,12 +33,6 @@ I'm a Communication Engineer, Software Developer, and Tech Educator who thrives 
 
 ---
 
-## 📊 GitHub Stats
-
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sickoovit&show_icons=true&theme=radical)
-
----
-
 ## 🔭 What I'm Working On
 
 - **Backend Mastery:** Building scalable systems with .NET, Node.js, and more.
