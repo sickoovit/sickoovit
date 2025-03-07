@@ -1,4 +1,4 @@
-# Hey, I'm Omar Osman. ![Custom Emoji](https://github.com/sickoovit/sickoovit/swag.gif)
+# Hey, I'm Omar Osman. ![Custom Emoji](https://github.com/sickoovit/sickoovit/blob/main/swag.gif)
 
 Welcome to my little corner of GitHub, where code meets creativity, and tech is as bold as my ideas. I'm not here to follow trends—I'm here to **set them**.
 
