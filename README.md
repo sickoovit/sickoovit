@@ -35,7 +35,7 @@ I'm a Communication Engineer, Software Developer, and Tech Educator who thrives 
 
 ## 📊 GitHub Stats
 
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sickoovit&show_icons=true&theme=radical)
 
 ---
 
